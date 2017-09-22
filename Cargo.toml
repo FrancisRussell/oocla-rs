@@ -1,0 +1,7 @@
+[package]
+name = "ooc"
+version = "0.1.0"
+authors = ["Francis Russell <francis@hadean.com>"]
+
+[dependencies]
+nix = "0.9.0"
