@@ -1,2 +1,3 @@
 extern crate nix;
-pub mod disk_matrix;
+extern crate rand;
+pub mod dense_matrix;

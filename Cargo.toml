@@ -5,3 +5,4 @@ authors = ["Francis Russell <francis@hadean.com>"]
 
 [dependencies]
 nix = "0.9.0"
+rand = "0.3"
